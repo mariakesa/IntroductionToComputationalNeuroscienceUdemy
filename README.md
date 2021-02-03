@@ -1,5 +1,7 @@
 # IntroductionToComputationalNeuroscienceUdemy
 
+Under construction!
+
 This is the antithesis of what studying should be like:
 
 [![The horror of mathematics](https://img.youtube.com/vi/J1BbwIE3a8g/0.jpg)](https://www.youtube.com/watch?v=J1BbwIE3a8g)
@@ -126,7 +128,7 @@ Brain's mysteries lock
 
 For more neuroscience poetry see: http://poeticneuroscience.blogspot.com/
 
-**The course costs 20$ on Udemy, 'cause I'm a Material Girl!**
+**The course costs 20$ on Udemy (in the near future), 'cause I'm a Material Girl!**
 
 [![Material Girl](https://img.youtube.com/vi/6p-lDYPR2P8/0.jpg)](https://www.youtube.com/watch?v=6p-lDYPR2P8)
 
