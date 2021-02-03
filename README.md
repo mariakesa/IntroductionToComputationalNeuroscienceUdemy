@@ -124,4 +124,4 @@ Decrypt the
 
 Brain's mysteries lock
 
-For more neuroscience poetry see: http://poeticneuroscience.blogspot.com/2021/02/blog-post_2.html
+For more neuroscience poetry see: http://poeticneuroscience.blogspot.com/
