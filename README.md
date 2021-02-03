@@ -126,7 +126,7 @@ Brain's mysteries lock
 
 For more neuroscience poetry see: http://poeticneuroscience.blogspot.com/
 
-The course costs 20$ on Udemy, 'cause I'm a Material Girl!
+**The course costs 20$ on Udemy, 'cause I'm a Material Girl!**
 
 [![Material Girl](https://img.youtube.com/vi/6p-lDYPR2P8/0.jpg)](https://www.youtube.com/watch?v=6p-lDYPR2P8)
 
